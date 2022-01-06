@@ -1,12 +1,16 @@
 Designations : 
-    * Manager : <name>
-    * Groundwork : <name>
-    * Spokesperson : <name>
+    * Manager : <JYOTSNA>
+    * Groundwork : <SUSHANT>
+    * Spokesperson : <JYOTSNA>
 
-2. Start Date : Month DD, YYYY - Jan XX,YYYY
-2. End Date   : Month DD, YYYY - Jan XX,YYYY
+2. Start Date : JAN 06, 2022- Jan XX,YYYY
+2. End Date   : JAN 21, 2022- Jan XX,YYYY
 
 3. Date : Jan 06,2022 [Present day date]
-    * What have you done in a brief.
-
+     -C programming using array(to find second lowest number in an array)
+     (to print number of possible combination of numbers in array)
+     
+    
 4. Work status 
+work in progress
+
